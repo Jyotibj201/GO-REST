@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-24T00:09:14 IST" name="Default suite" finished-at="2024-06-24T00:09:19 IST" duration-ms="5154">
+    <groups>
+    </groups>
+    <test started-at="2024-06-24T00:09:14 IST" name="Default test" finished-at="2024-06-24T00:09:19 IST" duration-ms="5154">
+      <class name="REST_TestScripts.BasicAuthentication">
+        <test-method signature="basicAuthUsernamePwd()[pri:0, instance:REST_TestScripts.BasicAuthentication@741a8937]" started-at="2024-06-24T00:09:14 IST" name="basicAuthUsernamePwd" finished-at="2024-06-24T00:09:19 IST" duration-ms="5064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuthUsernamePwd -->
+      </class> <!-- REST_TestScripts.BasicAuthentication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
