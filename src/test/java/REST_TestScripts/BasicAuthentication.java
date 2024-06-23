@@ -22,7 +22,6 @@ public class BasicAuthentication implements EndPoints {
 		.log().all();
 		System.out.println("User logged in Successfully..!");
 		
-
 	}
 
 }
