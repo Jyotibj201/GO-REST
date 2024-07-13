@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="REST_TestScripts.Delete">
+      <class name="REST_TestScripts.BasicAuthentication">
         <methods>
-          <include name="deleteAnExistingResource"/>
+          <include name="basicAuthUsernamePwd"/>
         </methods>
-      </class> <!-- REST_TestScripts.Delete -->
+      </class> <!-- REST_TestScripts.BasicAuthentication -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
